@@ -1,6 +1,8 @@
 # robust-mt-estimation
 This repository contains Python implementations of M-, S-, and MM-estimation methods for robust magnetotelluric impedance estimation under mixed-noise environments.
 
+[![DOI](https://zenodo.org/badge/1238823095.svg)](https://doi.org/10.5281/zenodo.20197019)
+
 regression: Regression algorithm file
 
 robust.py、local.py: the code for M-estimation
